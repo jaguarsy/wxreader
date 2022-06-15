@@ -2,7 +2,7 @@
   "name": "wxreader",
   "displayName": "微信读书",
   "description": "在VSCode侧边栏展示的微信读书插件",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.62.0"
   },
